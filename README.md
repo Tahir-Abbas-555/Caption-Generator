@@ -74,7 +74,7 @@ This application uses the **Salesforce BLIP Image Captioning Model**:
 **Unconditional Caption:** *"A sunset over the ocean with waves crashing."*
 
 ## Author
-Developed by **[Your Name]**.
+Developed by **[Tahir Abbas Shaikh]**.
 
 ## License
 This project is licensed under the MIT License.
