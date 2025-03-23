@@ -2,6 +2,9 @@
 
 This is a Streamlit web application that allows users to upload an image and generate captions for it using the BLIP (Bootstrapped Language-Image Pretraining) model. The application provides both unconditional captioning and conditional captioning based on a user-provided prompt.
 
+## Live Demo
+[Try it here](https://huggingface.co/spaces/Tahir5/Caption-Generator)
+
 ## Features
 
 - **Upload Image**: Users can upload images in JPG, PNG, or JPEG formats.
